@@ -1,0 +1,1 @@
+This is a RAG application built using python, langchain framework, chromadb, hugging face, Google gemini LLM. It uses the inbuilt knowledge base and we can get the information by asking questions and it gives the grounded answers.
